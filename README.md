@@ -10,3 +10,4 @@
 CircularRevealLayout.revealLayout(int x, int y);
 CircularRevealLayout.hideLayout();
 ```
+源码解析http://www.jianshu.com/p/e18c4fe7dbe3
